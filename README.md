@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MWolfich
-- 👀 I’m interested in Anime, Game, lua, English
+- 👋 Hi, I’m @Wolfich
+- 👀 I’m interested in GLUA
 - 🌱 I’m currently learning College
 - 💞️ I’m looking to collaborate on Not skem
 - 📫 How to reach me closed Information
