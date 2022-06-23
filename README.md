@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Wolfich
-- 👀 I’m interested in GLUA
-- 🌱 I’m currently learning College
-- 💞️ I’m looking to collaborate on Not skem
-- 📫 How to reach me closed Information
+![This is an image](https://99px.ru/sstorage/86/2015/06/image_86010615103759439948.gif)
+
+- An ordinary guy who knows programming languages
 
 <!---
 MWolfich/MWolfich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
